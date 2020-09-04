@@ -1,7 +1,15 @@
 ### PROBLEM 1
 
-def main():
-    print("hello world!")
+name = "Christopher Hensel"
+favorite_food = "schweinebraten"
+favorite_color = "blue"
+favorite_hobby = "taking geography quizzes"
+print(name)
+print(favorite_color)
+print(favorite_food)
+print(favorite_hobby)
 
-if __name__ == "__main__":
-    main()
+#Christopher Hensel
+#blue
+#schweinebraten
+#taking geography quizzes
